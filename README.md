@@ -1,17 +1,18 @@
 <h1>Kossel-SmoothiePi-mount</h1>
 A mount for a smoothieboard with a raspberry pi riding on it. Complete with a pi-camera arm you can adjust to capture what you're printing!
 
+I use it o a kossel mini with 15mm extrusions.
+
 The mounting holes on the pi-plate fit a raspberry pi model b.
 
 
-I designed this a while ago. It has been in operation for more than 6 months and works great. I am especially fond of the compact dimensions and of course the camera mount.
+I designed this a while ago. It has been in operation for more than a year and works great. I am especially fond of the compact dimensions and of course the camera mount.
 
-You'll need 15mm extrusions for this to work.
 <hr />
 
 <h2>Vitamins required</h2>
 
-- 4 x 30 mm standoffs
+- 4 x 30 mm standoffs (for attaching the pi-mount to smoothie)
 - 6 x M3X20 (for assembling camera arm and mounting the raspberry, as well as mounting the whole thing to the printer)
 - 1 x M3X10 (for the camera fixture)
 - 9 x M3X12 for mounting the smoothieboard and attaching the pi-mount to the standoffs
